@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace WACCA_SongTable
+﻿namespace WACCA_SongTable
 {
     internal class YesNoPrompt
     {

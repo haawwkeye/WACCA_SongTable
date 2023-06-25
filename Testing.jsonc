@@ -1,0 +1,14 @@
+﻿{
+  "songId": 0,
+  "BPM": 0,
+  "songArtist": "",
+  "songName": "",
+  "songNameTranslated": null,
+  "difficulties": [
+    {
+      "chartId": 0,
+      "level": 0,
+      "noteDesigner": ""
+    }
+  ]
+}

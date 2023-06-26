@@ -24,25 +24,25 @@ void Read(UAsset asset)
                 {
                     new()
                     {
-                        chartId = 0,
+                        chartId = 1,
                         level = float.Parse(entry.Value[35].ToString()),
                         noteDesigner = entry.Value[31].ToString()
                     },
                     new()
                     {
-                        chartId = 1,
+                        chartId = 2,
                         level = float.Parse(entry.Value[36].ToString()),
                         noteDesigner = entry.Value[32].ToString()
                     },
                     new()
                     {
-                        chartId = 2,
+                        chartId = 3,
                         level = float.Parse(entry.Value[37].ToString()),
                         noteDesigner = entry.Value[33].ToString()
                     },
                     new()
                     {
-                        chartId = 3,
+                        chartId = 4,
                         level = float.Parse(entry.Value[38].ToString()),
                         noteDesigner = entry.Value[34].ToString()
                     }
